@@ -1,6 +1,10 @@
 var searchData=
 [
-  ['file_5fdatabase_2eh_34',['file_database.h',['../file__database_8h.html',1,'']]],
-  ['file_5fdatabase_5ft_35',['file_database_t',['../classrm_1_1file__database__t.html',1,'rm::file_database_t'],['../classrm_1_1file__database__t.html#a4b91a915809c3cf7559affab136cce4a',1,'rm::file_database_t::file_database_t()']]],
-  ['find_36',['find',['../structrm_1_1type__pair__list.html#ac498ab27b45821d04864bf287a435780',1,'rm::type_pair_list::find()'],['../structrm_1_1type__pair__list_3_01key__t_00_01first_00_01tail_8_8_8_01_4.html#a5c058365d1d86d8de6f343b106fcddae',1,'rm::type_pair_list&lt; key_t, first, tail... &gt;::find()'],['../structrm_1_1type__map.html#abbf4ae82e81a9c97197443ce18a32c9d',1,'rm::type_map::find()']]]
+  ['5_20триединая_20сущность_0',['5. Триединая сущность',['../md_doc_2relations-model-ru.html#autotoc_md135',1,'']]],
+  ['5_201_20определение_20триединой_20сущности_1',['5.1. Определение триединой сущности',['../md_doc_2relations-model-ru.html#autotoc_md136',1,'']]],
+  ['5_201_20definition_20of_20triune_20entity_2',['5.1. Definition of Triune Entity',['../md_doc_2relations-model-en.html#autotoc_md105',1,'']]],
+  ['5_202_20топологии_20сущностей_3',['5.2. Топологии сущностей',['../md_doc_2relations-model-ru.html#autotoc_md137',1,'']]],
+  ['5_202_20entity_20topologies_4',['5.2. Entity Topologies',['../md_doc_2relations-model-en.html#autotoc_md106',1,'']]],
+  ['5_20triune_20entity_5',['5. Triune Entity',['../md_doc_2relations-model-en.html#autotoc_md104',1,'']]],
+  ['5_3a_20расширение_20экосистемы_6',['Направление 5: Расширение экосистемы',['../md_plan.html#autotoc_md237',1,'']]]
 ];

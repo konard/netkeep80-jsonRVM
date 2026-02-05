@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['readme_359',['README',['../md__r_e_a_d_m_e.html',1,'']]]
+  ['benefits_20of_20the_20jsonrvm_20project_0',['Advantages and benefits of the jsonRVM project',['../md__advantages_01and_01benefits_01of_01the_01json_r_v_m_01project.html',1,'']]]
 ];
